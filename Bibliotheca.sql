@@ -1,0 +1,1 @@
+grant connect, resource, create session, create view to sys identified by oracle@dm1nPwd;
